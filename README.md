@@ -1,31 +1,29 @@
 # Personal Utilites, Programs and Services I use
+```
+  dirs
 
-### dirs
-
-  ***dotfiles***
-  ...
-
-  ***books***
-    *pythonbooks.md*
-    *gobooks.md*
-    *linuxbooks.md*
-    *programmingbooks.md*
-    *booksIliked.md*
+    dotfiles
     ...
 
-  ***gostuff***
-  ...
+    books
+      pythonbooks.md
+      gobooks.md
+      linuxbooks.md
+      programmingbooks.md
+      booksIliked.md
+      ...
 
-  ***programmingstuff***
-  ...
+    gostuff
+    ...
 
-  ***pythonstuff***
-  ...
-...
+    programmingstuff
+    ...
+
+    pythonstuff
+    ...
 
 README.md
-terminalapps.md
 linuxapps.md
+terminalapps.md
 windowsapps.md
-...
-
+```
