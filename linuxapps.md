@@ -20,5 +20,17 @@ Installation
 | Arch | ``pacman -S tmux`` |
 | Debian | `apt install tmux` |
 
+---
 
+### ranger
 
+ranger is a console file manager with VI key bindings. It provides a 
+minimalistic and nice curses interface with a view on the directory hierarchy. 
+It ships with rifle, a file launcher that is good at automatically finding 
+out which program to use for what file type.
+
+Installation
+
+| Platform | Command |
+| --- | --- |
+| Arch | ``yay -S ranger`` |
